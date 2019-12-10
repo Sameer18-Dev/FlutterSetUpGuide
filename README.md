@@ -1,16 +1,28 @@
-# project
+# FlutterSetUpGuide
 
-A new Flutter project.
+* A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+* This is an example project for Cordova.
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <p>Step01</p>
+  <img src="https://github.com/Sameer18-Dev/FlutterSetUpGuide/blob/master/images/f1.PNG" width="750"><br>
+  <p>Step02</p>
+  <img src="https://github.com/Sameer18-Dev/FlutterSetUpGuide/blob/master/images/f2.png" width="750"><br>
+  <p>Step03</p>
+  <img src="https://github.com/Sameer18-Dev/FlutterSetUpGuide/blob/master/images/f3.png" width="750"><br>
+  <p>Step04</p>
+  <img src="https://github.com/Sameer18-Dev/FlutterSetUpGuide/blob/master/images/f4.png" width="750"><br>
+  <p>Step05</p>
+  <img src="https://github.com/Sameer18-Dev/FlutterSetUpGuide/blob/master/images/f5.png" width="750"><br>
+  <p>Step06</p>
+  <img src="https://github.com/Sameer18-Dev/FlutterSetUpGuide/blob/master/images/f6.png" width="750">
+</p>
+<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Resources
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.youtube.com/watch?v=x0uinJvhNxI<br>
+https://blog.codemagic.io/flutter-step-by-step-tutorial/
